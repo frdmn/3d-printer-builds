@@ -3362,3 +3362,7 @@
 
 // Disable servo with M282 to reduce power consumption, noise, and heat when not in use
 //#define SERVO_DETACH_GCODE
+
+// Supress  "Motherboard DIAG jumpers must be removed when SENSORLESS_HOMING is disabled.
+// (Define DIAG_JUMPERS_REMOVED to suppress this warning.)" message while building
+#define DIAG_JUMPERS_REMOVED
