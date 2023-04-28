@@ -1696,7 +1696,7 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 220 // tmp because of WIP H2 V2S mount that that is jamming into some screw
+#define X_BED_SIZE 235
 #define Y_BED_SIZE 214 // reduced because of Y tensioner
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
