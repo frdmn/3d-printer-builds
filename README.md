@@ -6,7 +6,7 @@ This repository holds my current Marlin configuration for my Creality Ender-3 v1
 
 ### Firmware specs / changes
 
-- Marlin version: [2.1.2](https://github.com/MarlinFirmware/Marlin/tree/2.1.2)
+- Marlin version: [2.1.2.1](https://github.com/MarlinFirmware/Marlin/tree/2.1.2.1)
 - Mesh bed leveling enabled (bilinear) using 3x3 probing grid
 - Update default feedrates
 - Adjusted nozzle park (G27) feature
