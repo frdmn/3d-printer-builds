@@ -8,6 +8,8 @@ This repository keeps track of my two 3D printer builds/changes:
 | [![](https://up.frd.mn/wM0iGTBckT/Bildschirm-foto-2023-05-30-um-12.33.57.png)](#creality-ender-3-v1) | [![](https://up.frd.mn/uITrwb4zfJ/Bildschirm-foto-2023-05-30-um-12.34.05.png)](#prusa-i3-mk3s-clone) |
 |----------|--------------|
 
+Table Of Contents:
+
 - [Creality Ender 3 (v1)](#creality-ender-3-v1)
   - [Hardware specs / changes](#hardware-specs--changes)
   - [3D printed modifications](#3d-printed-modifications)
