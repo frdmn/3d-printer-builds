@@ -5,7 +5,7 @@ This repository keeps track of my two 3D printer builds/changes:
 - Creality Ender-3 (v1, H2 Revo direct drive extruder, dual Z, inductive ABL, soon-to-be-Klipper-machine)
 - Prusa i3 MK3s clone (upgraded to Bear kit, original Prusa hotend/extruder, suffers from heatcreep/unterextrusion?)
 
-| [![](https://up.frd.mn/wM0iGTBckT/Bildschirm-foto-2023-05-30-um-12.33.57.png)](#creality-ender-3-v1) | [![](https://up.frd.mn/uITrwb4zfJ/Bildschirm-foto-2023-05-30-um-12.34.05.png)](#prusa-i3-mk3s-clone) |
+| [![](https://up.frd.mn/c6nnbhoerK/Bildschirm-foto-2023-05-30-um-12.33.57.jpg)](#creality-ender-3-v1) | [![](https://up.frd.mn/t8n2QkA6T4/Bildschirm-foto-2023-05-30-um-12.34.05.jpg)](#prusa-i3-mk3s-clone) |
 |----------|--------------|
 
 Table Of Contents:
