@@ -30,6 +30,7 @@ This was my very first 3D printer which now is used to try out and experiment wi
 
 - Bigtreetech's [SKR Mini E3 v3](https://www.3djake.de/bigtreetech/skr-mini-e3) mainboard
 - BIQU's [H2 V2S Revo](https://www.3djake.de/biqu/h2-v2s-revo-extruder) direct drive extruder
+- [MAD](https://www.printables.com/model/146957-mad-modular-air-duct-for-biqu-h2-h2-v2s-revo-h2-v2) air duct with 2x 5015 blower fans
 - [LJ12A3-4-Z/BX-5V](https://www.amazon.de/Taiss-induktiver-N%C3%A4herungsschalter-Arbeitsspannung-LJ12A3-4-Z/dp/B07XMND4QN/) inductive sensor (yes, there are 5V versions!)
 - [Dual Z axis/motors](https://www.3djake.de/creality-3d-drucker-ersatzteile/dual-z-achsen-upgrade?sai=10662)
 - BIQU's [partitioned heat bed](https://biqu.equipment/products/235mm-235mm-partitioned-hot-bed-compatible-for-ender-3-b1-hurakan)
