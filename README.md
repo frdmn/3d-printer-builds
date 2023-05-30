@@ -69,7 +69,7 @@ If you want to build Marlin on your own, you can do so as well:
 
     ```shell
     git clone git@github.com:MarlinFirmware/Marlin.git marlin-fw
-    git clone git@github.com:frdmn/Marlin.git configuration
+    git clone git@github.com:frdmn/3d-printer-builds.git 3d-printer-builds
     ```
 
 2. Remove the blanko default configuration files from firmware folder:
@@ -84,11 +84,11 @@ If you want to build Marlin on your own, you can do so as well:
 3. Link custom configuration files from this repo into `marlin-fw`:
 
     ```shell
-    ln -s configuration/config/Configuration.h marlin-fw/Marlin/Configuration.h
-    ln -s configuration/config/Configuration_adv.h marlin-fw/Marlin/Configuration_adv.h
-    ln -s configuration/config/_Bootscreen.h marlin-fw/Marlin/_Bootscreen.h
-    ln -s configuration/config/_Statusscreen.h marlin-fw/Marlin/_Statusscreen.h
-    ln -s configuration/config/platformio.ini marlin-fw/platformio.ini
+    ln -s 3d-printer-builds/ender-3/config/Configuration.h marlin-fw/Marlin/Configuration.h
+    ln -s 3d-printer-builds/ender-3/config/Configuration_adv.h marlin-fw/Marlin/Configuration_adv.h
+    ln -s 3d-printer-builds/ender-3/config/_Bootscreen.h marlin-fw/Marlin/_Bootscreen.h
+    ln -s 3d-printer-builds/ender-3/config/_Statusscreen.h marlin-fw/Marlin/_Statusscreen.h
+    ln -s 3d-printer-builds/ender-3/config/platformio.ini marlin-fw/platformio.ini
     ```
 
 4. Open `marlin-fw` in VSCode and use AutoMarlinBuild to start the build process:
